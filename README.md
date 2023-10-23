@@ -18,7 +18,7 @@ Medals (Upcoming): The dataset will be updated in the future to include informat
 
 Data Source
 
-The data used in this project is sourced from the official Tokyo Olympics 2020 website, ensuring its accuracy and reliability.
+The data used in this project is sourced from the official Tokyo Olympics 2021 website.
 
 Data Visualization
 
